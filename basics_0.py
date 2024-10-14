@@ -10,7 +10,7 @@ Terms:
 - `stdscr`: Standard output Screen. Standard output is a stream to which a program writes its output data.
 
 Note:
-- To run the application, use terminal: `python curses_basic_0.py` (use separate terminal window; does not seem to work in
+- To run the application, use terminal: `python basics_0.py` (use separate terminal window; does not seem to work in
 Pycharm default terminal)
 - Once the app starts, press any key to exit
 """
