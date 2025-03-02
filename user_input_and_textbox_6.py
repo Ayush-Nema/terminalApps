@@ -2,6 +2,8 @@
 User input and text box
 ===========================
 Capturing user input and displaying text box
+
+Note: Press `ctrl + G` to exit out of text box
 """
 
 import curses
